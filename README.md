@@ -17,14 +17,7 @@ A passionate **Full Stack Developer** with a strong focus on the **MERN stack** 
 #### 🧰 Dev Tools:
 - Git, GitHub, Postman, Vercel, AWS, Cloudinary, Nodemon, Figma, Canva, Adobe Photoshop
 
----
 
-### 👨‍💻 Currently Working On:
-- Real-time MERN-based Church Management System (LWMC MEDIA)
-- Ajji-Store – Full-featured eCommerce platform with PayPal integration
-- Medical Appointment Platform (DT-Medical Centre)
-
----
 
 ### 🌱 Currently Exploring:
 - TypeScript & Next.js Advanced Patterns  
