@@ -1,17 +1,77 @@
-# 💫 About Me:
-Hi, I'm Asjad Ahamed 👋<br>I'm a Full Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). I love creating clean, efficient, and scalable web applications that provide an exceptional user experience.<br><br>🛠️ What I Work With:<br>Frontend: React.js, Next.js, Tailwind CSS, JavaScript (ES6+)<br>Backend: Node.js, Express.js<br>Database: MongoDB, Mongoose<br>Tools & Platforms: Git, GitHub, REST APIs, Postman<br>🚀 What Drives Me:<br>I’m passionate about crafting sleek, responsive designs using Tailwind CSS and building seamless, dynamic user interfaces. On the backend, I focus on creating robust APIs and efficient database structures to power modern web applications.<br><br>🌱 Currently Exploring:<br>Advanced features of Next.js and TypeScript<br>Optimizing web performance and scalability<br>Exploring GraphQL and Prisma
-
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asjadahamed77&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asjadahamed77&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asjadahamed77&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me:
+Hi, I'm **Asjad Ahamed** 👋  
+A passionate **Full Stack Developer** with a strong focus on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I specialize in building clean, scalable, and high-performance web applications, with both beautiful frontend experiences and powerful backend logic.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asjadahamed77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔨 Tech Stack & Tools:
+#### 🚀 Frontend:
+- React.js, Next.js, Tailwind CSS, ShadCN UI, Redux Toolkit, JavaScript (ES6+), TypeScript
+
+#### 🧠 Backend:
+- Node.js, Express.js, JWT, REST APIs, Firebase
+
+#### 💃 Databases:
+- MongoDB, Mongoose, MySQL, PostgreSQL
+
+#### 🧰 Dev Tools:
+- Git, GitHub, Postman, Vercel, AWS, Cloudinary, Nodemon, Figma, Canva, Adobe Photoshop
+
+---
+
+### 👨‍💻 Currently Working On:
+- Real-time MERN-based Church Management System (LWMC MEDIA)
+- Ajji-Store – Full-featured eCommerce platform with PayPal integration
+- Medical Appointment Platform (DT-Medical Centre)
+
+---
+
+### 🌱 Currently Exploring:
+- TypeScript & Next.js Advanced Patterns  
+- GraphQL & Prisma  
+- Scalable Backend Architecture  
+- Performance Optimization (SSR, Code Splitting, Lazy Loading)
+
+---
+
+## 📈 GitHub Stats:
+![Asjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asjadahamed77&show_icons=true&theme=shadow_blue&count_private=true&include_all_commits=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=asjadahamed77&theme=shadow_blue&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asjadahamed77&layout=compact&theme=shadow_blue)
+
+---
+
+## 🧪 Featured Projects:
+
+### 🔹 [Ajji-Store (MERN eCommerce)](https://ajji-store-client.vercel.app/)
+- Full-stack eCommerce site with PayPal integration & admin dashboard  
+- Tech: React, Node.js, Express, MongoDB, Tailwind CSS  
+- [Live Demo](https://ajji-store-client.vercel.app/) | [GitHub](https://github.com/asjadahamed77/Ajji-Store)
+
+### 🔹 [Ajjiyoo (Dress Shop)](https://ajjiyoo-ecom-2nkh.vercel.app/)
+- Fashion product marketplace with user/admin features in one UI  
+- [Live Demo](https://ajjiyoo-ecom-2nkh.vercel.app/) | [GitHub](https://github.com/asjadahamed77/AjjiyooEcom)
+
+### 🔹 [DT-Medical Centre (Booking System)](https://dt-medical-centre-c.vercel.app/)
+- Real-time doctor appointment platform  
+- [Live Demo](https://dt-medical-centre-c.vercel.app/) | [GitHub](https://github.com/asjadahamed77/DT-Medical-Centre)
+
+### 🔹 [Servicio (Service Marketplace)](https://github.com/asjadahamed77/Servicio-Complete)
+- Dual-portal MERN app with messaging, favorites, and search  
+- [GitHub](https://github.com/asjadahamed77/Servicio-Complete)
+
+---
+
+## 🏆 Achievements & Certificates:
+- 🥈 **Code Quest Finalist 2024** – IEEE Software Engineering Competition  
+- 🧪 **Innovate with Ballerina** – Problem-solving with Ballerina by WSO2
+
+---
+
+## 📢 Let's Connect:
+- 📧 Email: [ahamedasjad77@gmail.com](mailto:ahamedasjad77@gmail.com)  
+- 🌐 Portfolio: [asjad-ahamed.vercel.app](https://asjad-ahamed.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/asjad-ahamed-71941b288](https://www.linkedin.com/in/asjad-ahamed-71941b288)  
+- 💻 GitHub: [github.com/asjadahamed77](https://github.com/asjadahamed77)  
+
+[![](https://visitcount.itsvg.in/api?id=asjadahamed77&icon=0&color=0)](https://visitcount.itsvg.in)
