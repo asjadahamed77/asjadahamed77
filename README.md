@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/89667746?v=4" width="150px" style="border-radius:50%; margin-bottom: 20px;" alt="Asjad Ahamed Profile Picture" />
   </a>
   <h1>Hi, I'm <strong>Asjad Ahamed</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-  <p>A results-driven <strong>Full Stack Developer</strong> with professional experience in building modern, scalable, and secure web applications. I specialize in the <strong>MERN stack</strong> with a strong focus on clean UI/UX and maintainable backend architecture.</p>
+  <p>A results-driven <strong>Full Stack Developer</strong> with professional experience in building modern, scalable, and secure web applications. I specialize in the <strong>MERN stack & Spring Boot</strong> with a strong focus on clean UI/UX and maintainable backend architecture.</p>
 </div>
 
 ---
@@ -25,7 +25,7 @@
 React.js | Next.js | Tailwind CSS | ShadCN UI | Redux Toolkit | JavaScript (ES6+) | TypeScript
 
 ### 🔧 Backend
-Node.js | Express.js | JWT | REST APIs | Firebase
+Node.js | Express.js | Spring Boot | JWT | REST APIs | Firebase
 
 ### 🗃️ Databases
 MongoDB | Mongoose | MySQL | PostgreSQL
