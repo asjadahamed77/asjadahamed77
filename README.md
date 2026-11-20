@@ -27,7 +27,7 @@
   <a href="#-about">About</a> &nbsp;•&nbsp;
   <a href="#-what-i-do">Services</a> &nbsp;•&nbsp;
   <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-  <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#-featured-projects">Works</a> &nbsp;•&nbsp;
   <a href="#-github-analytics">Analytics</a> &nbsp;•&nbsp;
   <a href="#-contact">Contact</a>
 </p>
